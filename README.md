@@ -78,13 +78,3 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 </p>
 
 ---
-
-## 📌 Next Goals
-
-- Host live demos for key projects
-- Add project descriptions & screenshots
-- Build a personal portfolio site
-
----
-
-> “Better code is written with clarity, not noise.”
