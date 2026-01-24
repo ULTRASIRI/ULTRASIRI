@@ -30,7 +30,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <!-- Portfolio -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/portfolio.png" alt="Portfolio" >
+    <img src="assets/portfolio.webp" alt="Portfolio" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong> Portfolio </strong><br/>
@@ -40,7 +40,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <!-- ThreeJs Journey -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/tiny-tumble.png" alt="threejs Journey" >
+    <img src="assets/threeJsJourney.png" alt="threejs Journey" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>ThreeJs Journey</strong><br/>
@@ -48,14 +48,13 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
   
 </td>
 
-
 </tr>
 
 <tr>
 <!-- POS-system-for-Gargi-Garage -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/space-invaders.png" alt="POS system for Garage" >
+    <img src="assets/POS.png" alt="POS system for Garage" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>POS system for Garage</strong><br/>
@@ -65,7 +64,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <!-- Focus And Concentration -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/rocket-boost.png" alt="Rocket Boost" >
+    <img src="assets/focusAndConcentration.png" alt="Rocket Boost" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Focus And Concentration</strong><br/>
