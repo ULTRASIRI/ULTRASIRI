@@ -14,8 +14,8 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 <p align="center">
   <a href="https://github.com/ULTRASIRI">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/shrinath-hinge">LinkedIn</a> •
+  <a href="mailto:shrinathhinge0303@gmail.com">Email</a>
 </p>
 
 ---
