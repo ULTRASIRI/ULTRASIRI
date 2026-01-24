@@ -13,9 +13,15 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/ULTRASIRI">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shrinath-hinge">LinkedIn</a> •
-  <a href="mailto:shrinathhinge0303@gmail.com">Email</a>
+  <a href="https://github.com/ULTRASIRI">
+    <img src="https://img.shields.io/badge/GitHub-ULTRASIRI-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shrinath-hinge">
+    <img src="https://img.shields.io/badge/LinkedIn-Shrinath%20Hinge-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shrinathhinge0303@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shrinathhinge0303@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
