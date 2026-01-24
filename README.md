@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shrinath (ULTRASIRI)</h1>
+<h1 align="center">👋 Hi, I'm Shrinath </h1>
 <p align="center">Student | Full-Stack Learner | Problem Solver</p>
 
 ---
