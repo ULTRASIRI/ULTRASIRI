@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 I build small full-stack projects, explore Web and AI apps, and learn by doing.  
-I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js**.  [oai_citation:1‡GitHub](https://github.com/ULTRASIRI)
+I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js**.  
 
 ---
 
