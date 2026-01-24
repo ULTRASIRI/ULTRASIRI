@@ -27,57 +27,45 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <table>
 
 <tr>
-<!-- Portfolio -->
 <td align="center">
   <a href="#">
-    <img src="assets/portfolio.webp" alt="Portfolio" >
+    <img src="assets/portfolio.webp" alt="Portfolio" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong> Portfolio </strong><br/>
   <a href="https://parkfolio-three.vercel.app/">Live</a>
 </td>
 
-<!-- ThreeJs Journey -->
 <td align="center">
   <a href="#">
-    <img src="assets/threeJsJourney.png" alt="threejs Journey" >
+    <img src="assets/threeJsJourney.png" alt="threejs Journey" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>ThreeJs Journey</strong><br/>
-  <a href="https://github.com/ULTRASIRI/Three-js-Journey">Code</a> ·
-  
+  <a href="https://github.com/ULTRASIRI/Three-js-Journey">Code</a>
 </td>
-
 </tr>
 
 <tr>
-<!-- POS-system-for-Gargi-Garage -->
 <td align="center">
   <a href="#">
-    <img src="assets/POS.png" alt="POS system for Garage" >
+    <img src="assets/POS.png" alt="POS system for Garage" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>POS system for Garage</strong><br/>
   <a href="https://github.com/ULTRASIRI/POS-system-for-Gargi-Garage">Code</a>
 </td>
 
-<!-- Focus And Concentration -->
 <td align="center">
   <a href="#">
-    <img src="assets/focusAndConcentration.png" alt="Rocket Boost" >
+    <img src="assets/focusAndConcentration.png" alt="Rocket Boost" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Focus And Concentration</strong><br/>
   <a href="https://github.com/ULTRASIRI/Focus-and-Concentration">Code</a> ·
   <a href="https://focus-and-concentration.vercel.app/">Live</a>
 </td>
-
-
 </tr>
-
-<tr>
-<!-- Catcher -->
-
 
 </table>
 
