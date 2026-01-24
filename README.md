@@ -22,36 +22,64 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 ## 💼 Featured Projects
 
+## Projects <sup>4</sup> ↘
+
 <table>
-<tr>
-<td align="center" width="33%">
-  <strong>Three-js-Journey</strong><br />
-  <a href="https://github.com/ULTRASIRI/Three-js-Journey">Code</a><br />
-  ⭐ 7
-</td>
-
-<td align="center" width="33%">
-  <strong>Focus-and-Concentration</strong><br />
-  <a href="https://github.com/ULTRASIRI/Focus-and-Concentration">Code</a><br />
-  ⭐ 7
-</td>
-
-<td align="center" width="33%">
-  <strong>Bridging-Language-Barriers</strong><br />
-  <a href="https://github.com/ULTRASIRI/Bridging-Language-Barriers">Code</a><br />
-  ⭐ 6
-</td>
-</tr>
 
 <tr>
+<!-- Portfolio -->
 <td align="center">
-  <strong>POS-system-for-Gargi-Garage</strong><br />
-  <a href="https://github.com/ULTRASIRI/POS-system-for-Gargi-Garage">Code</a><br />
-  ⭐ 6
+  <a href="#">
+    <img src="assets/thumbs/portfolio.png" alt="Portfolio" >
+  </a>
+  <br/>⎯⎯⎯⎯<br/>
+  <strong> Portfolio </strong><br/>
+  <a href="https://parkfolio-three.vercel.app/">Live</a>
 </td>
 
-<td></td><td></td>
+<!-- ThreeJs Journey -->
+<td align="center">
+  <a href="#">
+    <img src="assets/thumbs/tiny-tumble.png" alt="threejs Journey" >
+  </a>
+  <br/>⎯⎯⎯⎯<br/>
+  <strong>ThreeJs Journey</strong><br/>
+  <a href="https://github.com/ULTRASIRI/Three-js-Journey">Code</a> ·
+  
+</td>
+
+
 </tr>
+
+<tr>
+<!-- POS-system-for-Gargi-Garage -->
+<td align="center">
+  <a href="#">
+    <img src="assets/thumbs/space-invaders.png" alt="POS system for Garage" >
+  </a>
+  <br/>⎯⎯⎯⎯<br/>
+  <strong>POS system for Garage</strong><br/>
+  <a href="https://github.com/ULTRASIRI/POS-system-for-Gargi-Garage">Code</a>
+</td>
+
+<!-- Focus And Concentration -->
+<td align="center">
+  <a href="#">
+    <img src="assets/thumbs/rocket-boost.png" alt="Rocket Boost" >
+  </a>
+  <br/>⎯⎯⎯⎯<br/>
+  <strong>Focus And Concentration</strong><br/>
+  <a href="https://github.com/ULTRASIRI/Focus-and-Concentration">Code</a> ·
+  <a href="https://focus-and-concentration.vercel.app/">Live</a>
+</td>
+
+
+</tr>
+
+<tr>
+<!-- Catcher -->
+
+
 </table>
 
 *More repos on my profile.*  [oai_citation:2‡GitHub](https://github.com/ULTRASIRI)
