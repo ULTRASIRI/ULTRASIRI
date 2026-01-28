@@ -35,7 +35,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 <tr>
 <td align="center">
-  <a href="#">
+  <a href="https://parkfolio-three.vercel.app/">
     <img src="assets/portfolio.webp" alt="Portfolio" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
@@ -55,7 +55,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 <tr>
 <td align="center">
-  <a href="#">
+  <a href="https://github.com/ULTRASIRI/POS-system-for-Gargi-Garage">
     <img src="assets/POS.png" alt="POS system for Garage" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
@@ -64,7 +64,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 </td>
 
 <td align="center">
-  <a href="#">
+  <a href="https://focus-and-concentration.vercel.app/">
     <img src="assets/focusAndConcentration.png" alt="Rocket Boost" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
