@@ -93,10 +93,3 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ULTRASIRI&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
