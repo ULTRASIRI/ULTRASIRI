@@ -36,7 +36,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <tr>
 <td align="center">
   <a href="https://parkfolio-three.vercel.app/">
-    <img src="assets/portfolio.webp" alt="Portfolio" width="220">
+    <img src="assets/portfolio.png" alt="Portfolio" width="220">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong> Portfolio </strong><br/>
