@@ -36,7 +36,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <tr>
 <td align="center">
   <a href="https://parkfolio-three.vercel.app/">
-    <img src="assets/portfolio.png" alt="Portfolio" width="220">
+    <img src="assets/portfolio.png" alt="Portfolio">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong> Portfolio </strong><br/>
@@ -45,7 +45,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 <td align="center">
   <a href="#">
-    <img src="assets/threeJsJourney.png" alt="threejs Journey" width="220">
+    <img src="assets/threeJsJourney.png" alt="threejs Journey">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>ThreeJs Journey</strong><br/>
@@ -56,7 +56,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 <tr>
 <td align="center">
   <a href="https://github.com/ULTRASIRI/POS-system-for-Gargi-Garage">
-    <img src="assets/POS.png" alt="POS system for Garage" width="220">
+    <img src="assets/POS.png" alt="POS system for Garage">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>POS system for Garage</strong><br/>
@@ -65,7 +65,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 <td align="center">
   <a href="https://focus-and-concentration.vercel.app/">
-    <img src="assets/focusAndConcentration.png" alt="Rocket Boost" width="220">
+    <img src="assets/focusAndConcentration.png" alt="Rocket Boost">
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Focus And Concentration</strong><br/>
