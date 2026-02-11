@@ -76,7 +76,7 @@ I’m focused on improving my skills in **JavaScript, HTML, Python, and Three.js
 
 </table>
 
-*More repos on my profile.*  [oai_citation:2‡GitHub](https://github.com/ULTRASIRI)
+*More repos on my profile.*  [ultrasiri:GitHub](https://github.com/ULTRASIRI)
 
 ---
 
