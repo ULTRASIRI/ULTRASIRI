@@ -8,7 +8,7 @@
 
 
 <!-- PROJECT-TABLE-START -->
-## Projects <sup>4</sup> ↘️
+## Projects <sup>4</sup> ↘
 
 <table>
 <tr>
