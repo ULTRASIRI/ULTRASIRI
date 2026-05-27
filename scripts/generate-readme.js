@@ -1,5 +1,4 @@
 const fs = require('fs');
-const path = require('path');
 
 const projectsData = JSON.parse(fs.readFileSync('projects-data.json', 'utf8'));
 const readmePath = 'README.md';
@@ -46,7 +45,7 @@ function generateProjectsTable(projects) {
 
 const tableHtml = generateProjectsTable(projectsData.projects);
 const projectCount = projectsData.projects.length;
-const headerHtml = `## Projects <sup>${projectCount}</sup> ↘`;
+const headerHtml = `## Projects <sup>${projectCount}</sup> ↘️`;
 const startMarker = '<!-- PROJECT-TABLE-START -->';
 const endMarker = '<!-- PROJECT-TABLE-END -->';
 
