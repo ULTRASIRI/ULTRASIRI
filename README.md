@@ -42,9 +42,9 @@ No activity tracked
 <a href="https://github.com/ULTRASIRI/Focus-and-Concentration">Code</a> · <a href="https://focus-and-concentration.vercel.app/">Live</a>
 </td>
 <td align="center">
-<a href="https://focus-and-concentration.vercel.app/"><img src="assets/thumbs/focusAndConcentration.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
-<strong>talkflow</strong><br/>
-<a href="https://github.com/ULTRASIRI/Focus-and-Concentration">Code</a> · <a href="https://focus-and-concentration.vercel.app/">Live</a>
+<a href="https://pagani-zonda-revolucion-three.vercel.app/"><img src="assets/thumbs/pagani-zonda.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
+<strong>Pagani Zonda Revo</strong><br/>
+<a href="https://github.com/ULTRASIRI/zondaR-3D">Code</a> · <a href="https://pagani-zonda-revolucion-three.vercel.app/">Live</a>
 </td>
 <td align="center"><img src="assets/thumbs/coming-soon.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://github.com/ULTRASIRI">Stay tuned</a></td>
 </tr>
