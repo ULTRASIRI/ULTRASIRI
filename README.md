@@ -1,33 +1,14 @@
-# Hey there 👋 ! I'm Shrinath Hinge
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
-
-<p align="center">
-  <a href="https://github.com/ULTRASIRI">
-    <img src="https://img.shields.io/badge/GitHub-ULTRASIRI-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/shrinath-hinge">
-    <img src="https://img.shields.io/badge/LinkedIn-Shrinath%20Hinge-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:shrinathhinge0303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shrinathhinge0303@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# Hey there :wave: ! I'm Shrinath Hinge
+[![wakatime](https://wakatime.com/badge/user/8ee7d4a8-c269-4e25-9a4b-e97a7ee42eb3.svg?v=2)](https://wakatime.com/@8ee7d4a8-c269-4e25-9a4b-e97a7ee42eb3)
 
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
 <!-- PROJECT-TABLE-START -->
-## Projects <sup>4</sup> ↘
+## Projects <sup>4</sup> ↘️
 
 <table>
 <tr>
@@ -59,7 +40,6 @@ No activity tracked
 </table>
 <!-- PROJECT-TABLE-END -->
 
-
-## 🐍 Contribution Snake
+## :snake: Contribution Snake
 
 ![Snake animation](https://github.com/ULTRASIRI/ULTRASIRI/blob/output/github-contribution-grid-snake.svg)
