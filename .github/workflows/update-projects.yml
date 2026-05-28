@@ -16,12 +16,16 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '24'
+
+      - name: Debug File Changes
+        run: git diff --name-only HEAD~1 HEAD
 
       - name: Generate README Projects Table
         run: node scripts/generate-readme.js

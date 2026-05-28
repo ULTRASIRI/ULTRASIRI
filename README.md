@@ -1,5 +1,5 @@
 # Hey there :wave: ! I'm Shrinath Hinge
-[![wakatime](https://wakatime.com/badge/user/8ee7d4a8-c269-4e25-9a4b-e97a7ee42eb3.svg?v=2)](https://wakatime.com/@8ee7d4a8-c269-4e25-9a4b-e97a7ee42eb3)
+[![wakatime](https://wakatime.com/badge/user/8ee7d4a8-c269-4e25-9a4b-e97a7ee42eb3.svg)](https://wakatime.com/@8ee7d4a8-c269-4e25-9a4b-e97a7ee42eb3)
 
 ## Weekly Development Breakdown
 
